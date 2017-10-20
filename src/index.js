@@ -14,3 +14,5 @@ var meInReact = React.createElement(
   </ul>
 </div>
 )
+
+ReactDOM.render(<meInReact/>,index);
