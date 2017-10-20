@@ -15,4 +15,4 @@ var meInReact = React.createElement(
 </div>
 )
 
-ReactDOM.render(<meInReact/>,index);
+ReactDOM.render(<meInReact/>,app);
